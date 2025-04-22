@@ -69,9 +69,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Right-click on the newly unallocated space → Select New Simple Volume.
   ![image](https://github.com/user-attachments/assets/41e9c6cb-977b-4d6e-a68c-a362ac0e838d)
 
-  •	Follow the wizard and assign a disk name.
-  ![image](https://github.com/user-attachments/assets/5ad0a711-41c2-46c8-b036-e13adc527afb)
-
+ 
   •	Click Finish to complete the process.
  ![image](https://github.com/user-attachments/assets/2d8bf418-7d81-4726-8148-b773a422e5e3)
 
@@ -85,7 +83,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Open File Explorer → Navigate to the newly created drive (C: or D:).
   
   •	Transfer images or files into it.
-  ![image](https://github.com/user-attachments/assets/3e9292cd-1c05-4ebb-8e22-702d42db7c17)
+  ![DFDI0](https://github.com/user-attachments/assets/dcb04b30-c462-48f5-a0ac-1bab72f14808)
 
 ## OUTPUT:ANALYSING FILES USING AUTOPSY:
 
