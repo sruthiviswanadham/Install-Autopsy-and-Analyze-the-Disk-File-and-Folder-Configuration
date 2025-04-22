@@ -73,10 +73,12 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   ![image](https://github.com/user-attachments/assets/5ad0a711-41c2-46c8-b036-e13adc527afb)
 
   •	Click Finish to complete the process.
-  ![image](https://github.com/user-attachments/assets/7248d01a-6e69-4dff-bb5a-3036036f7ac6)
+ ![image](https://github.com/user-attachments/assets/2d8bf418-7d81-4726-8148-b773a422e5e3)
+
 
   •	The new Disk Partition is created
-  ![image](https://github.com/user-attachments/assets/667a1eaa-ace8-43ff-9119-c9070b5febc7)
+  ![image](https://github.com/user-attachments/assets/08815607-aba0-42f3-a2c5-e6fcf527347e)
+
 
 ## ADDING FILES:
 ### Step1: Copy Files to the Partition:
