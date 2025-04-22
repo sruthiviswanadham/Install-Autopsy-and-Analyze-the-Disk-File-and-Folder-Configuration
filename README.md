@@ -71,6 +71,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
  
   •	Click Finish to complete the process.
+  
  ![image](https://github.com/user-attachments/assets/2d8bf418-7d81-4726-8148-b773a422e5e3)
 
 
